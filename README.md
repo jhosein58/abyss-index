@@ -1,14 +1,14 @@
 # abyss-index
 
-Official package registry index for the Abyss programming language and Sonar package manager.
+Official pod registry index for the Abyss programming language and Sonar pod manager.
 
 ## Structure
 
-Package metadata is stored under `packages/<name>.json`:
+Pod metadata is stored under `pods/<name>.json`:
 
 ```json
 {
-  "name": "package-name",
+  "name": "pod-name",
   "description": "Short description",
   "git": "https://github.com/user/repo.git",
   "subdir": "optional/monorepo/subpath",
@@ -17,6 +17,6 @@ Package metadata is stored under `packages/<name>.json`:
 }
 ```
 
-## Adding a Package
+## Adding a Pod
 
-To submit a new package, fork this repository, add `packages/<name>.json`, and open a Pull Request.
+To submit a new pod, fork this repository, add `pods/<name>.json`, and open a Pull Request.
