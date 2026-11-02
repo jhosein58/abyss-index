@@ -1,0 +1,8 @@
+{
+  "name": "json",
+  "description": "Zero-dependency JSON parser for Abyss",
+  "git": "https://github.com/jhosein58/abyss.git",
+  "subdir": "packages/json",
+  "latest": "0.1.0",
+  "versions": ["0.1.0"]
+}
