@@ -1,6 +1,6 @@
 # abyss-index
 
-Official pod registry index for the Abyss programming language and Sonar pod manager.
+Official pod registry index for the Abyss programming language and Sonar package manager.
 
 ## Structure
 
